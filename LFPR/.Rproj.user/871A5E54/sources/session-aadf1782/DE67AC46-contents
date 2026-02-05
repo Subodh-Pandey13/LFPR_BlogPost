@@ -1,0 +1,18 @@
+library(ggplot2)
+
+library(readr)
+lfpr <- read_csv("data_LFPR.csv")
+View(lfpr)
+
+lfpr$YearPeriod <- as.Date(
+  paste(lfpr$Year, sub("M", "", lfpr$Period), "01", sep = "-")
+)
+
+ggplot(lfpr, aes(x=Label, y=Value)) +
+  geom_line()
+
+ggplot(lfpr, aes(x = Year, y = Value)) +
+  geom_line()
+
+ggplot(lfpr, aes(x = YearPeriod, y = Value)) +
+  geom_line()
