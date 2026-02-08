@@ -30,3 +30,24 @@ format ym %tm
 tsset ym
 tsline value
 
+*Graph for Labor Force participation Rate for male and female from BLS data using both seasonally adjusted and not-adjusted.
+
+
+ import delimited "/Users/subodh/Documents/LFPR_Blogpost/LFPR/data_LFPR_gender.csv", numericcols(4) clear 
+
+gen month = real(substr(period,2,.))
+gen ym = ym(year, month)
+format ym %tm
+
+replace value = "." if value == "-"
+destring value, replace
+reshape wide value, i(ym) j(seriesid) string
+rename valueLNS11300000 lfprs
+rename valueLNS11300001 lfprs_men
+rename valueLNS11300002 lfprs_women
+rename valueLNU01300000 lfpru
+rename valueLNU01300001 lfpru_men
+rename valueLNU01300002 lfpru_women
+
+tsset ym
+tsline lfprs lfprs_men lfprs_women
