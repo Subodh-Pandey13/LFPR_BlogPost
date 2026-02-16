@@ -15,6 +15,7 @@
 \usepackage{lipsum}
 \usepackage{graphicx}
 \usepackage{float}
+\usepackage{subcaption}
 \usepackage[T1]{fontenc}
 
 \usepackage[tmargin=0.5in,bmargin=0.5in, lmargin=0.5in, rmargin=0.5in]{geometry}
@@ -42,7 +43,6 @@ E2S2
     \date{}
 
 	\maketitle
-	
 
 
 
@@ -53,8 +53,49 @@ $$\text{LFPR} = \frac{\text{Employed People + Unemployed People}}{\text{Working 
 Macroeconomists use LFPR as an initial economic indicator of current market trends and to understand the overall health of the economy, with some exceptions, particularly in the long run. The increase in the labor force growth is associated with faster GDP growth, and vice versa. However, long-run changes may not always reflect the health of the economy. For example, demographic changes such as an aging population or the choice of individuals to attend college rather than work may lead to more exits from the labor force, causing a shrinking of the labor force and thus decreasing the LFPR.
 
 While looking at the historical trend, the LFPR reached a peak of 67.3\% in early 2000. The rate followed an upward trend for several decades since the data collection started in 1948, which may be attributed to more women entering the workforce. The LFPR of men has been persistently higher than that of women since the data collection started. From then the it fell by 7.4 points among men and grew by 2.8 points among women, comparing 2025 December with 2000 January. While comparing 2025 December with 1948 January, it fell by 19 points among men and grew by 25.3 points among females. \textcite{perez2021decline} attributed the decline to technological innovations and a change in the social programs after the financial crisis of 2007. \textcite{krueger2017have} attributed the decline to the retirement of the baby boomers, increase in social security benefits including Social Security Disability Insurance (SSDI) and increased school enrollment among the younger population.
+\begin{figure}[H]
+    \centering
+    \begin{subfigure}[t]{0.49\textwidth}
+        \centering
+        \includegraphics[width=\linewidth]{lfpr_gender_1948_2025_rec.jpg}
+        \caption{Labor Force Participation Rate by Gender (1948--2025)}
+        \label{fig:lfpr_1984_2025}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[t]{0.49\textwidth}
+        \centering
+        \includegraphics[width=\linewidth]{lfpr_gender_2000_2025_rec.jpg}
+        \caption{Labor Force Participation Rate by Gender (2000--2025)}
+        \label{fig:lfpr_2000_2025}
+    \end{subfigure}
+
+    \caption{Trends in Labor Force Participation Rate by Gender. 
+    Shaded areas indicate U.S. recession periods.}
+    \label{fig:lfpr_combined}
+\end{figure}
 
 The U.S. labor market was severely affected by the coronavirus disease 2019 (COVID-19) pandemic as the unemployment rate increased to 14.7 percent in April 2020 from 3.6 percent in April 2019. As 2020 continued, the labor market began to improve, and the unemployment rate started to fall. The labor force participation rate, however, did not recover as fast. This low participation rate during COVID-19 has been attributed to several factors, such as dependent care demands, increased unemployment benefits, people afraid of getting sick from COVID-19, and work-life balance preferences. Economists have also pointed to retirements, generous severance after a layoff, younger workers' focus on higher education, and general disillusionment with the labor market as possible reasons for the declining share of workers in the labor force, particularly among the youngest and oldest groups.
+
+\begin{figure}[H]
+    \centering
+    \begin{subfigure}[t]{0.49\textwidth}
+        \centering
+        \includegraphics[width=\linewidth]{lfpr_race_2000_2025_rec.jpg}
+        \caption{Labor Force Participation Rate by Race (2000--2025)}
+        \label{fig:lfpr_race_2000_2025}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[t]{0.49\textwidth}
+        \centering
+        \includegraphics[width=\linewidth]{lfpr_race_2014_2025_rec.jpg}
+        \caption{Labor Force Participation Rate by Race (2014--2025)}
+        \label{fig:lfpr_race_2014_2025}
+    \end{subfigure}
+
+    \caption{Trends in Labor Force Participation Rate by Race. 
+    Shaded areas indicate U.S. recession periods.}
+    \label{fig:lfpr_combined}
+\end{figure}
 
 There are also varying effects of market shocks (COVID-19 and the Great Recession) on the LFPR. The LFPR during COVID-19 significantly reduced, while the reduction effects are higher in black (approx. 5\%) and Hispanic (approx. 5\%) as compared to Whites (3\%). The reasons attributed to the reasons presented by Jason et al. (2023), which include: (1) being an essential worker, (2) the type of work performed, (3) workplace factors, and (4) community and geographic factors. 
 

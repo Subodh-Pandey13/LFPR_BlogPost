@@ -1,0 +1,185 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{krueger2017have}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=34526c3bf548080921683822747fad7e}{%
+           family={Krueger},
+           familyi={K\bibinitperiod},
+           given={Alan\bibnamedelima B},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{34526c3bf548080921683822747fad7e}
+      \strng{fullhash}{34526c3bf548080921683822747fad7e}
+      \strng{fullhashraw}{34526c3bf548080921683822747fad7e}
+      \strng{bibnamehash}{34526c3bf548080921683822747fad7e}
+      \strng{authorbibnamehash}{34526c3bf548080921683822747fad7e}
+      \strng{authornamehash}{34526c3bf548080921683822747fad7e}
+      \strng{authorfullhash}{34526c3bf548080921683822747fad7e}
+      \strng{authorfullhashraw}{34526c3bf548080921683822747fad7e}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Brookings papers on economic activity}
+      \field{number}{2}
+      \field{title}{Where have all the workers gone? An inquiry into the decline of the US labor force participation rate}
+      \field{volume}{2017}
+      \field{year}{2017}
+      \field{pages}{1}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1353/eca.2017.0012
+      \endverb
+    \endentry
+    \entry{perez2021decline}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0e1c99f320e894d184fe2c88d0079a55}{%
+           family={Perez-Arce},
+           familyi={P\bibinithyphendelim A\bibinitperiod},
+           given={Francisco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91dab88c7ff3460ac25b43c5bab6952e}{%
+           family={Prados},
+           familyi={P\bibinitperiod},
+           given={Maria\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{a52964b73a2703e50b2223903df38ecc}
+      \strng{fullhash}{a52964b73a2703e50b2223903df38ecc}
+      \strng{fullhashraw}{a52964b73a2703e50b2223903df38ecc}
+      \strng{bibnamehash}{a52964b73a2703e50b2223903df38ecc}
+      \strng{authorbibnamehash}{a52964b73a2703e50b2223903df38ecc}
+      \strng{authornamehash}{a52964b73a2703e50b2223903df38ecc}
+      \strng{authorfullhash}{a52964b73a2703e50b2223903df38ecc}
+      \strng{authorfullhashraw}{a52964b73a2703e50b2223903df38ecc}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economic Surveys}
+      \field{number}{2}
+      \field{title}{The decline in the US labor force participation rate: a literature review}
+      \field{volume}{35}
+      \field{year}{2021}
+      \field{pages}{615\bibrangedash 652}
+      \range{pages}{38}
+      \verb{doi}
+      \verb 10.1111/joes.12402
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{krueger2017have}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=34526c3bf548080921683822747fad7e}{%
+           family={Krueger},
+           familyi={K\bibinitperiod},
+           given={Alan\bibnamedelima B},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{34526c3bf548080921683822747fad7e}
+      \strng{fullhash}{34526c3bf548080921683822747fad7e}
+      \strng{fullhashraw}{34526c3bf548080921683822747fad7e}
+      \strng{bibnamehash}{34526c3bf548080921683822747fad7e}
+      \strng{authorbibnamehash}{34526c3bf548080921683822747fad7e}
+      \strng{authornamehash}{34526c3bf548080921683822747fad7e}
+      \strng{authorfullhash}{34526c3bf548080921683822747fad7e}
+      \strng{authorfullhashraw}{34526c3bf548080921683822747fad7e}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Brookings papers on economic activity}
+      \field{number}{2}
+      \field{title}{Where have all the workers gone? An inquiry into the decline of the US labor force participation rate}
+      \field{volume}{2017}
+      \field{year}{2017}
+      \field{pages}{1}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1353/eca.2017.0012
+      \endverb
+    \endentry
+    \entry{perez2021decline}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0e1c99f320e894d184fe2c88d0079a55}{%
+           family={Perez-Arce},
+           familyi={P\bibinithyphendelim A\bibinitperiod},
+           given={Francisco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91dab88c7ff3460ac25b43c5bab6952e}{%
+           family={Prados},
+           familyi={P\bibinitperiod},
+           given={Maria\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{a52964b73a2703e50b2223903df38ecc}
+      \strng{fullhash}{a52964b73a2703e50b2223903df38ecc}
+      \strng{fullhashraw}{a52964b73a2703e50b2223903df38ecc}
+      \strng{bibnamehash}{a52964b73a2703e50b2223903df38ecc}
+      \strng{authorbibnamehash}{a52964b73a2703e50b2223903df38ecc}
+      \strng{authornamehash}{a52964b73a2703e50b2223903df38ecc}
+      \strng{authorfullhash}{a52964b73a2703e50b2223903df38ecc}
+      \strng{authorfullhashraw}{a52964b73a2703e50b2223903df38ecc}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economic Surveys}
+      \field{number}{2}
+      \field{title}{The decline in the US labor force participation rate: a literature review}
+      \field{volume}{35}
+      \field{year}{2021}
+      \field{pages}{615\bibrangedash 652}
+      \range{pages}{38}
+      \verb{doi}
+      \verb 10.1111/joes.12402
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
