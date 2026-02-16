@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  8 FEB 2026 23:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  15 FEB 2026 15:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/subodh/Documents/LFPR_Blogpost/LaborForceParticipationRate_BlogPost/LFPR.tex
-(/Users/subodh/Documents/LFPR_Blogpost/LaborForceParticipationRate_BlogPost/LFPR.tex
+**/Users/subodh/Documents/LFPR_Blogpost/GITHUB_LFPR_BlogPost/LATEX_LFPR/LFPR.tex
+(/Users/subodh/Documents/LFPR_Blogpost/GITHUB_LFPR_BlogPost/LATEX_LFPR/LFPR.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrartcl.cls
@@ -809,37 +809,38 @@ Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
 \BKM@id=\count453
 ))
-Overfull \hbox (8.93338pt too wide) in paragraph at lines 47--47
+Overfull \hbox (8.93338pt too wide) in paragraph at lines 45--45
 \T1/cmr/m/n/10.95 E2S2 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--47
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
 
  []
 
-<LaborForceParticipationRate (1).png, id=4, 1871.49188pt x 1052.43187pt>
-File: LaborForceParticipationRate (1).png Graphic file (type png)
-<use LaborForceParticipationRate (1).png>
-Package pdftex.def Info: LaborForceParticipationRate (1).png  used on input line 50.
-(pdftex.def)             Requested size: 433.62166pt x 243.83676pt.
-<Screenshot 2026-01-20 at 11.42.09 AM.png, id=6, 742.775pt x 574.145pt>
-File: Screenshot 2026-01-20 at 11.42.09 AM.png Graphic file (type png)
-<use Screenshot 2026-01-20 at 11.42.09 AM.png>
-Package pdftex.def Info: Screenshot 2026-01-20 at 11.42.09 AM.png  used on input line 59.
-(pdftex.def)             Requested size: 433.62166pt x 335.18576pt.
 
 
 [1
 
 
-{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc} <./LaborForceParticipationRate (1).png>]
+{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
 
-[2 <./Screenshot 2026-01-20 at 11.42.09 AM.png>]
+[2]
 
 [3]
+<LaborForceParticipationRate (1).png, id=32, 1871.49188pt x 1052.43187pt>
+File: LaborForceParticipationRate (1).png Graphic file (type png)
+<use LaborForceParticipationRate (1).png>
+Package pdftex.def Info: LaborForceParticipationRate (1).png  used on input line 75.
+(pdftex.def)             Requested size: 433.62166pt x 243.83676pt.
+<Screenshot 2026-01-20 at 11.42.09 AM.png, id=34, 742.775pt x 574.145pt>
+File: Screenshot 2026-01-20 at 11.42.09 AM.png Graphic file (type png)
+<use Screenshot 2026-01-20 at 11.42.09 AM.png>
+Package pdftex.def Info: Screenshot 2026-01-20 at 11.42.09 AM.png  used on input line 84.
+(pdftex.def)             Requested size: 433.62166pt x 335.18576pt.
 
-[4] (./LFPR.aux)
+
+[4 <./LaborForceParticipationRate (1).png> <./Screenshot 2026-01-20 at 11.42.09 AM.png>] (./LFPR.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -852,14 +853,14 @@ Package logreq Info: Writing requests to 'LFPR.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  23673 strings out of 473190
- 439168 string characters out of 5715801
- 1602270 words of memory out of 5000000
+ 439153 string characters out of 5715801
+ 1609270 words of memory out of 5000000
  46653 multiletter control sequences out of 15000+600000
  572004 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,9n,107p,10995b,5237s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,9n,107p,10990b,5237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx2074.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb>
-Output written on LFPR.pdf (4 pages, 454628 bytes).
+Output written on LFPR.pdf (4 pages, 454622 bytes).
 PDF statistics:
  82 PDF objects out of 1000 (max. 8388607)
  55 compressed objects within 1 object stream
