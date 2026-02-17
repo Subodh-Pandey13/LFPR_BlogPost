@@ -281,6 +281,8 @@ INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ecrm0800.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ecrm0600.tfm
+INPUT /usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc
 INPUT ./lfpr_gender_1948_2025_rec.jpg
 INPUT ./lfpr_gender_1948_2025_rec.jpg
 INPUT ./lfpr_gender_1948_2025_rec.jpg
@@ -292,8 +294,6 @@ INPUT ./lfpr_gender_2000_2025_rec.jpg
 INPUT ./lfpr_gender_2000_2025_rec.jpg
 INPUT ./lfpr_gender_2000_2025_rec.jpg
 INPUT ./lfpr_gender_2000_2025_rec.jpg
-INPUT /usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT /usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc
 INPUT ./lfpr_race_2000_2025_rec.jpg
 INPUT ./lfpr_race_2000_2025_rec.jpg
 INPUT ./lfpr_race_2000_2025_rec.jpg
