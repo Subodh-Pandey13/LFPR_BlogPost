@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  24 FEB 2026 14:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  24 FEB 2026 14:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -669,11 +669,7 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
- (%OUTDIR%/LFPR.aux
-
-LaTeX Warning: Label `fig:lfpr_combined' multiply defined.
-
-)
+ (%OUTDIR%/LFPR.aux)
 \openout1 = `LFPR.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
@@ -875,10 +871,6 @@ Package pdftex.def Info: Screenshot 2026-01-20 at 11.42.09 AM.png  used on inp
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `LFPR.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'LFPR.run.xml'.
@@ -886,10 +878,10 @@ Package logreq Info: Writing requests to 'LFPR.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24249 strings out of 473190
- 453688 string characters out of 5715801
- 1609608 words of memory out of 5000000
- 47216 multiletter control sequences out of 15000+600000
+ 24250 strings out of 473190
+ 453714 string characters out of 5715801
+ 1609696 words of memory out of 5000000
+ 47217 multiletter control sequences out of 15000+600000
  572767 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,9n,107p,10990b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
