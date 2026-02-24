@@ -166,11 +166,11 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortlocale</bcf:key>
-      <bcf:value>american</bcf:value>
+      <bcf:value>english</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortingtemplatename</bcf:key>
-      <bcf:value>apa</bcf:value>
+      <bcf:value>nyt</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortsets</bcf:key>
@@ -3084,10 +3084,20 @@
     <bcf:citekey order="9" intorder="1">murphy1997unemployment</bcf:citekey>
     <bcf:citekey order="9" intorder="2">juhn2006changes</bcf:citekey>
     <bcf:citekey order="9" intorder="3">salamaliki2014smooth</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">mosisa2006trends</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">albanesi2021gendered</bcf:citekey>
+    <bcf:citekey order="10" intorder="2">AaronsonAlba2021SchoolClosures</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">Cajner2017RacialGaps</bcf:citekey>
+    <bcf:citekey order="11" intorder="2">BLS2023RaceEthnicity</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">BLS2016HispanicLaborForce</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">mosisa2006trends</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">goda2023impacts</bcf:citekey>
+    <bcf:citekey order="14" intorder="2">KPMG2025GreatExit</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">jason2024impact</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">kochhar2014_pew</bcf:citekey>
+    <bcf:citekey order="16" intorder="2">bls2019_lfpr</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
-  <bcf:sortingtemplate name="apa">
+  <bcf:sortingtemplate name="nyt">
     <bcf:sort order="1">
       <bcf:sortitem order="1">presort</bcf:sortitem>
     </bcf:sort>
@@ -3098,39 +3108,28 @@
       <bcf:sortitem order="1">sortname</bcf:sortitem>
       <bcf:sortitem order="2">author</bcf:sortitem>
       <bcf:sortitem order="3">editor</bcf:sortitem>
-      <bcf:sortitem order="4">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="5">title</bcf:sortitem>
+      <bcf:sortitem order="4">translator</bcf:sortitem>
+      <bcf:sortitem order="5">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="6">title</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="4">
-      <bcf:sortitem order="1">pubstate</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
       <bcf:sortitem order="1">sortyear</bcf:sortitem>
       <bcf:sortitem order="2">year</bcf:sortitem>
-      <bcf:sortitem literal="1" order="3">-2000000000</bcf:sortitem>
     </bcf:sort>
-    <bcf:sort order="6">
-      <bcf:sortitem order="1">month</bcf:sortitem>
-      <bcf:sortitem literal="1" order="2">-2000000000</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="7">
-      <bcf:sortitem order="1">day</bcf:sortitem>
-      <bcf:sortitem literal="1" order="2">-2000000000</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="8">
+    <bcf:sort order="5">
       <bcf:sortitem order="1">sorttitle</bcf:sortitem>
       <bcf:sortitem order="2">title</bcf:sortitem>
     </bcf:sort>
-    <bcf:sort order="9">
+    <bcf:sort order="6">
       <bcf:sortitem order="1">volume</bcf:sortitem>
       <bcf:sortitem literal="1" order="2">0</bcf:sortitem>
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
   <bcf:datalist section="0"
-                name="apa/apasortcite//global/global/global"
+                name="nyt/apasortcite//global/global/global"
                 type="entry"
-                sortingtemplatename="apa"
+                sortingtemplatename="nyt"
                 sortingnamekeytemplatename="apasortcite"
                 labelprefix=""
                 uniquenametemplatename="global"
@@ -3138,9 +3137,9 @@
                 namehashtemplatename="global">
   </bcf:datalist>
   <bcf:datalist section="0"
-                name="apa/global//global/global/global"
+                name="nyt/global//global/global/global"
                 type="entry"
-                sortingtemplatename="apa"
+                sortingtemplatename="nyt"
                 sortingnamekeytemplatename="global"
                 labelprefix=""
                 uniquenametemplatename="global"

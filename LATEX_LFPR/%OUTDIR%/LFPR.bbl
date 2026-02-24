@@ -1,0 +1,1639 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/apasortcite//global/global/global}
+    \entry{AaronsonAlba2021SchoolClosures}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9abda8c78bc7301c54d3f26bafb07a19}{%
+           family={Aaronson},
+           familyi={A\bibinitperiod},
+           given={Stephanie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8727781fe197b4687e80fa053aa99503}{%
+           family={Alba},
+           familyi={A\bibinitperiod},
+           given={Francisca},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Brookings Institution}%
+      }
+      \strng{namehash}{01441b206e2fd2fd8b3a5cdc1f477c35}
+      \strng{fullhash}{01441b206e2fd2fd8b3a5cdc1f477c35}
+      \strng{fullhashraw}{01441b206e2fd2fd8b3a5cdc1f477c35}
+      \strng{bibnamehash}{01441b206e2fd2fd8b3a5cdc1f477c35}
+      \strng{authorbibnamehash}{01441b206e2fd2fd8b3a5cdc1f477c35}
+      \strng{authornamehash}{01441b206e2fd2fd8b3a5cdc1f477c35}
+      \strng{authorfullhash}{01441b206e2fd2fd8b3a5cdc1f477c35}
+      \strng{authorfullhashraw}{01441b206e2fd2fd8b3a5cdc1f477c35}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed February 24, 2026}
+      \field{title}{The Relationship between School Closures and Female Labor Force Participation during the Pandemic}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.brookings.edu/articles/the-relationship-between-school-closures-and-female-labor-force-participation-during-the-pandemic/
+      \endverb
+      \verb{url}
+      \verb https://www.brookings.edu/articles/the-relationship-between-school-closures-and-female-labor-force-participation-during-the-pandemic/
+      \endverb
+    \endentry
+    \entry{albanesi2021gendered}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0c2acf2e1aa826c0490c6ca950e7bbb4}{%
+           family={Albanesi},
+           familyi={A\bibinitperiod},
+           given={Stefania},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c9641ff079e43d9ec51eec057a9786b2}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Jiyeon},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{006bacb61c5c08d5dc9fcfe72ff887b4}
+      \strng{fullhash}{006bacb61c5c08d5dc9fcfe72ff887b4}
+      \strng{fullhashraw}{006bacb61c5c08d5dc9fcfe72ff887b4}
+      \strng{bibnamehash}{006bacb61c5c08d5dc9fcfe72ff887b4}
+      \strng{authorbibnamehash}{006bacb61c5c08d5dc9fcfe72ff887b4}
+      \strng{authornamehash}{006bacb61c5c08d5dc9fcfe72ff887b4}
+      \strng{authorfullhash}{006bacb61c5c08d5dc9fcfe72ff887b4}
+      \strng{authorfullhashraw}{006bacb61c5c08d5dc9fcfe72ff887b4}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{National Bureau of Economic Research}
+      \field{title}{The gendered impact of the {{COVID}}-19 recession on the {{US}} labor market}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.3386/w28505
+      \endverb
+    \endentry
+    \entry{Cajner2017RacialGaps}{misc}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=42d3220edd65d63e9617de1608bfce90}{%
+           family={Cajner},
+           familyi={C\bibinitperiod},
+           given={Tomaz},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8a1136786e0a444858db7d39e7fe44a}{%
+           family={Radler},
+           familyi={R\bibinitperiod},
+           given={Tyler},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=992e8c2fa75b92b172fe4c1c47195170}{%
+           family={Ratner},
+           familyi={R\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=88344b83c27388ee7003f01501f70a73}{%
+           family={Vidangos},
+           familyi={V\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Washington, DC}%
+      }
+      \list{organization}{1}{%
+        {Board of Governors of the Federal Reserve System}%
+      }
+      \strng{namehash}{f388cb73f1afca82adf6268059770c3b}
+      \strng{fullhash}{396ee44fea54cbbaafb8a9e0d038ee50}
+      \strng{fullhashraw}{396ee44fea54cbbaafb8a9e0d038ee50}
+      \strng{bibnamehash}{396ee44fea54cbbaafb8a9e0d038ee50}
+      \strng{authorbibnamehash}{396ee44fea54cbbaafb8a9e0d038ee50}
+      \strng{authornamehash}{f388cb73f1afca82adf6268059770c3b}
+      \strng{authorfullhash}{396ee44fea54cbbaafb8a9e0d038ee50}
+      \strng{authorfullhashraw}{396ee44fea54cbbaafb8a9e0d038ee50}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{2017-071}
+      \field{series}{Finance and Economics Discussion Series}
+      \field{title}{Racial Gaps in Labor Market Outcomes in the Last Four Decades and over the Business Cycle}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.17016/FEDS.2017.071
+      \endverb
+    \endentry
+    \entry{Fu2025LFPR}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2626498b7f0a4b357c37d1021232afa8}{%
+           family={Fu},
+           familyi={F\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {National Association of Home Builders}%
+      }
+      \strng{namehash}{2626498b7f0a4b357c37d1021232afa8}
+      \strng{fullhash}{2626498b7f0a4b357c37d1021232afa8}
+      \strng{fullhashraw}{2626498b7f0a4b357c37d1021232afa8}
+      \strng{bibnamehash}{2626498b7f0a4b357c37d1021232afa8}
+      \strng{authorbibnamehash}{2626498b7f0a4b357c37d1021232afa8}
+      \strng{authornamehash}{2626498b7f0a4b357c37d1021232afa8}
+      \strng{authorfullhash}{2626498b7f0a4b357c37d1021232afa8}
+      \strng{authorfullhashraw}{2626498b7f0a4b357c37d1021232afa8}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Eye on Housing Blog. Accessed February 24, 2026}
+      \field{title}{Demographic Analysis of Labor Force Participation Rate}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://eyeonhousing.org/2025/01/demographic-analysis-of-labor-force-participation-rate/
+      \endverb
+      \verb{url}
+      \verb https://eyeonhousing.org/2025/01/demographic-analysis-of-labor-force-participation-rate/
+      \endverb
+    \endentry
+    \entry{goda2023impacts}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=64c58797c23e73a3e13ba19c6929effa}{%
+           family={Goda},
+           familyi={G\bibinitperiod},
+           given={Gopi\bibnamedelima Shah},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb6a67452f9f7485eecdeda41eeaddf2}{%
+           family={Soltas},
+           familyi={S\bibinitperiod},
+           given={Evan\bibnamedelima J},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{7590ba52a683f66614f6a4b335a24354}
+      \strng{fullhash}{7590ba52a683f66614f6a4b335a24354}
+      \strng{fullhashraw}{7590ba52a683f66614f6a4b335a24354}
+      \strng{bibnamehash}{7590ba52a683f66614f6a4b335a24354}
+      \strng{authorbibnamehash}{7590ba52a683f66614f6a4b335a24354}
+      \strng{authornamehash}{7590ba52a683f66614f6a4b335a24354}
+      \strng{authorfullhash}{7590ba52a683f66614f6a4b335a24354}
+      \strng{authorfullhashraw}{7590ba52a683f66614f6a4b335a24354}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Public Economics}
+      \field{title}{The impacts of {{COVID}}-19 absences on workers}
+      \field{volume}{222}
+      \field{year}{2023}
+      \field{pages}{104889}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.jpubeco.2023.104889
+      \endverb
+    \endentry
+    \entry{greenwood2005engines}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d478f9299f338f8350ee22180e3a93bf}{%
+           family={Greenwood},
+           familyi={G\bibinitperiod},
+           given={Jeremy},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a150c401256b1e090a7ab6684501923}{%
+           family={Seshadri},
+           familyi={S\bibinitperiod},
+           given={Ananth},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4cfeb276d230e136f61488ce846e2caa}{%
+           family={Yorukoglu},
+           familyi={Y\bibinitperiod},
+           given={Mehmet},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley-Blackwell}%
+      }
+      \strng{namehash}{72b6a0cd5413503a42f713b6538fdf06}
+      \strng{fullhash}{95dfc092c53e19a3b577b987e5dd99e0}
+      \strng{fullhashraw}{95dfc092c53e19a3b577b987e5dd99e0}
+      \strng{bibnamehash}{95dfc092c53e19a3b577b987e5dd99e0}
+      \strng{authorbibnamehash}{95dfc092c53e19a3b577b987e5dd99e0}
+      \strng{authornamehash}{72b6a0cd5413503a42f713b6538fdf06}
+      \strng{authorfullhash}{95dfc092c53e19a3b577b987e5dd99e0}
+      \strng{authorfullhashraw}{95dfc092c53e19a3b577b987e5dd99e0}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Review of Economic Studies}
+      \field{number}{1}
+      \field{title}{Engines of liberation}
+      \field{volume}{72}
+      \field{year}{2005}
+      \field{pages}{109\bibrangedash 133}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1111/0034-6527.00326
+      \endverb
+    \endentry
+    \entry{jason2024impact}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=766b6e95729c84f8bc0f07a3f4264b13}{%
+           family={Jason},
+           familyi={J\bibinitperiod},
+           given={Kendra},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=186506697c1ee2741a53d377f93093b9}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Miguel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f4065a9583414c80abbc15080a22cdb0}{%
+           family={Catoe},
+           familyi={C\bibinitperiod},
+           given={Jamel},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4573606ebe6decc72223160e1e3106b4}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Courtney},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aacb17862c1948a1375d427106c9de83}{%
+           family={Gonzalez},
+           familyi={G\bibinitperiod},
+           given={Mayleen},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{50c942654d357c96592eb520ef331a36}
+      \strng{fullhash}{b3302f640af4455721341da0256ff7e0}
+      \strng{fullhashraw}{b3302f640af4455721341da0256ff7e0}
+      \strng{bibnamehash}{b3302f640af4455721341da0256ff7e0}
+      \strng{authorbibnamehash}{b3302f640af4455721341da0256ff7e0}
+      \strng{authornamehash}{50c942654d357c96592eb520ef331a36}
+      \strng{authorfullhash}{b3302f640af4455721341da0256ff7e0}
+      \strng{authorfullhashraw}{b3302f640af4455721341da0256ff7e0}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Racial and Ethnic Health Disparities}
+      \field{number}{3}
+      \field{title}{The impact of the {{COVID}}-19 pandemic on {{B}}lack and {{H}}ispanic {{A}}mericans’ work outcomes: A scoping review}
+      \field{volume}{11}
+      \field{year}{2024}
+      \field{pages}{1157\bibrangedash 1172}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/s40615-023-01594-6
+      \endverb
+    \endentry
+    \entry{juhn2006changes}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d601477de775b6ef301d8f3e0aa13ef0}{%
+           family={Juhn},
+           familyi={J\bibinitperiod},
+           given={Chinhui},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9fc0dd7b264039d7b29133af7c71ed82}{%
+           family={Potter},
+           familyi={P\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Economic Association}%
+      }
+      \strng{namehash}{a5c310a1a28a19c645ca80ead154dad5}
+      \strng{fullhash}{a5c310a1a28a19c645ca80ead154dad5}
+      \strng{fullhashraw}{a5c310a1a28a19c645ca80ead154dad5}
+      \strng{bibnamehash}{a5c310a1a28a19c645ca80ead154dad5}
+      \strng{authorbibnamehash}{a5c310a1a28a19c645ca80ead154dad5}
+      \strng{authornamehash}{a5c310a1a28a19c645ca80ead154dad5}
+      \strng{authorfullhash}{a5c310a1a28a19c645ca80ead154dad5}
+      \strng{authorfullhashraw}{a5c310a1a28a19c645ca80ead154dad5}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economic Perspectives}
+      \field{number}{3}
+      \field{title}{Changes in labor force participation in the {{U}}nited {{S}}tates}
+      \field{volume}{20}
+      \field{year}{2006}
+      \field{pages}{27\bibrangedash 46}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1257/jep.20.3.27
+      \endverb
+    \endentry
+    \entry{killingsworth1986female}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5d64d2801e645420774270bc870efb36}{%
+           family={Killingsworth},
+           familyi={K\bibinitperiod},
+           given={Mark\bibnamedelima R},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b70b920520f54634a1f03f9312707db2}{%
+           family={Heckman},
+           familyi={H\bibinitperiod},
+           given={James\bibnamedelima J},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{f8d1c90c19c167f6d1061720b6f39961}
+      \strng{fullhash}{f8d1c90c19c167f6d1061720b6f39961}
+      \strng{fullhashraw}{f8d1c90c19c167f6d1061720b6f39961}
+      \strng{bibnamehash}{f8d1c90c19c167f6d1061720b6f39961}
+      \strng{authorbibnamehash}{f8d1c90c19c167f6d1061720b6f39961}
+      \strng{authornamehash}{f8d1c90c19c167f6d1061720b6f39961}
+      \strng{authorfullhash}{f8d1c90c19c167f6d1061720b6f39961}
+      \strng{authorfullhashraw}{f8d1c90c19c167f6d1061720b6f39961}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Handbook of Labor Economics}
+      \field{title}{Female labor supply: A survey}
+      \field{volume}{1}
+      \field{year}{1986}
+      \field{pages}{103\bibrangedash 204}
+      \range{pages}{102}
+      \verb{doi}
+      \verb 10.1016/S1573-4463(86)01005-2
+      \endverb
+    \endentry
+    \entry{kochhar2014_pew}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b9381b3c728f9c3029a66bdc1e7f7bf8}{%
+           family={Kochhar},
+           familyi={K\bibinitperiod},
+           given={Rakesh},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Pew Research Center}%
+      }
+      \strng{namehash}{b9381b3c728f9c3029a66bdc1e7f7bf8}
+      \strng{fullhash}{b9381b3c728f9c3029a66bdc1e7f7bf8}
+      \strng{fullhashraw}{b9381b3c728f9c3029a66bdc1e7f7bf8}
+      \strng{bibnamehash}{b9381b3c728f9c3029a66bdc1e7f7bf8}
+      \strng{authorbibnamehash}{b9381b3c728f9c3029a66bdc1e7f7bf8}
+      \strng{authornamehash}{b9381b3c728f9c3029a66bdc1e7f7bf8}
+      \strng{authorfullhash}{b9381b3c728f9c3029a66bdc1e7f7bf8}
+      \strng{authorfullhashraw}{b9381b3c728f9c3029a66bdc1e7f7bf8}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed February 24, 2026}
+      \field{title}{Chapter 1: Employment and Unemployment in the Recession and the Recovery}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://www.pewresearch.org/race-and-ethnicity/2014/06/19/chapter-1-employment-and-unemployment-in-the-recession-and-the-recovery/
+      \endverb
+      \verb{url}
+      \verb https://www.pewresearch.org/race-and-ethnicity/2014/06/19/chapter-1-employment-and-unemployment-in-the-recession-and-the-recovery/
+      \endverb
+    \endentry
+    \entry{KPMG2025GreatExit}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4544eb2d4cb5dd50a18a6a396cc2eb5d}{%
+           family={KPMG},
+           familyi={K\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {KPMG LLP}%
+      }
+      \strng{namehash}{4544eb2d4cb5dd50a18a6a396cc2eb5d}
+      \strng{fullhash}{4544eb2d4cb5dd50a18a6a396cc2eb5d}
+      \strng{fullhashraw}{4544eb2d4cb5dd50a18a6a396cc2eb5d}
+      \strng{bibnamehash}{4544eb2d4cb5dd50a18a6a396cc2eb5d}
+      \strng{authorbibnamehash}{4544eb2d4cb5dd50a18a6a396cc2eb5d}
+      \strng{authornamehash}{4544eb2d4cb5dd50a18a6a396cc2eb5d}
+      \strng{authorfullhash}{4544eb2d4cb5dd50a18a6a396cc2eb5d}
+      \strng{authorfullhashraw}{4544eb2d4cb5dd50a18a6a396cc2eb5d}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Great Exit}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://kpmg.com/us/en/articles/2025/october-2025-the-great-exit.html
+      \endverb
+      \verb{url}
+      \verb https://kpmg.com/us/en/articles/2025/october-2025-the-great-exit.html
+      \endverb
+    \endentry
+    \entry{krueger2017have}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=34526c3bf548080921683822747fad7e}{%
+           family={Krueger},
+           familyi={K\bibinitperiod},
+           given={Alan\bibnamedelima B},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{34526c3bf548080921683822747fad7e}
+      \strng{fullhash}{34526c3bf548080921683822747fad7e}
+      \strng{fullhashraw}{34526c3bf548080921683822747fad7e}
+      \strng{bibnamehash}{34526c3bf548080921683822747fad7e}
+      \strng{authorbibnamehash}{34526c3bf548080921683822747fad7e}
+      \strng{authornamehash}{34526c3bf548080921683822747fad7e}
+      \strng{authorfullhash}{34526c3bf548080921683822747fad7e}
+      \strng{authorfullhashraw}{34526c3bf548080921683822747fad7e}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Brookings Papers on Economic Activity}
+      \field{number}{2}
+      \field{title}{Where have all the workers gone? {{A}}n inquiry into the decline of the {{US}} labor force participation rate}
+      \field{volume}{2017}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 87}
+      \range{pages}{87}
+      \verb{doi}
+      \verb 10.1353/eca.2017.0012
+      \endverb
+    \endentry
+    \entry{mosisa2006trends}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a5981cca3b1fe32ea8030ee4df6a0aca}{%
+           family={Mosisa},
+           familyi={M\bibinitperiod},
+           given={Abraham},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=74dee3659c0e02203e844614c211c5b5}{%
+           family={Hipple},
+           familyi={H\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {HeinOnline}%
+      }
+      \strng{namehash}{4586025994cb59131cb0a6ebf1afd979}
+      \strng{fullhash}{4586025994cb59131cb0a6ebf1afd979}
+      \strng{fullhashraw}{4586025994cb59131cb0a6ebf1afd979}
+      \strng{bibnamehash}{4586025994cb59131cb0a6ebf1afd979}
+      \strng{authorbibnamehash}{4586025994cb59131cb0a6ebf1afd979}
+      \strng{authornamehash}{4586025994cb59131cb0a6ebf1afd979}
+      \strng{authorfullhash}{4586025994cb59131cb0a6ebf1afd979}
+      \strng{authorfullhashraw}{4586025994cb59131cb0a6ebf1afd979}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Monthly Lab. Rev.}
+      \field{title}{Trends in labor force participation in the {{U}}nited {{S}}tates}
+      \field{volume}{129}
+      \field{year}{2006}
+      \field{pages}{35}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://www.bls.gov/opub/mlr/2006/10/art3full.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.bls.gov/opub/mlr/2006/10/art3full.pdf
+      \endverb
+    \endentry
+    \entry{murphy1997unemployment}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2459a19cc6b1187b64ff667577c741d9}{%
+           family={Murphy},
+           familyi={M\bibinitperiod},
+           given={Kevin\bibnamedelima M},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a3b67e69c19ebe886973cc4645c687a}{%
+           family={Topel},
+           familyi={T\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{eaef55390169c81ec628bcff488b3a8a}
+      \strng{fullhash}{eaef55390169c81ec628bcff488b3a8a}
+      \strng{fullhashraw}{eaef55390169c81ec628bcff488b3a8a}
+      \strng{bibnamehash}{eaef55390169c81ec628bcff488b3a8a}
+      \strng{authorbibnamehash}{eaef55390169c81ec628bcff488b3a8a}
+      \strng{authornamehash}{eaef55390169c81ec628bcff488b3a8a}
+      \strng{authorfullhash}{eaef55390169c81ec628bcff488b3a8a}
+      \strng{authorfullhashraw}{eaef55390169c81ec628bcff488b3a8a}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The American Economic Review}
+      \field{number}{2}
+      \field{title}{Unemployment and nonemployment}
+      \field{volume}{87}
+      \field{year}{1997}
+      \field{pages}{295\bibrangedash 300}
+      \range{pages}{6}
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/2950934
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/2950934
+      \endverb
+    \endentry
+    \entry{perez2021decline}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0e1c99f320e894d184fe2c88d0079a55}{%
+           family={Perez-Arce},
+           familyi={P\bibinithyphendelim A\bibinitperiod},
+           given={Francisco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91dab88c7ff3460ac25b43c5bab6952e}{%
+           family={Prados},
+           familyi={P\bibinitperiod},
+           given={Maria\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{a52964b73a2703e50b2223903df38ecc}
+      \strng{fullhash}{a52964b73a2703e50b2223903df38ecc}
+      \strng{fullhashraw}{a52964b73a2703e50b2223903df38ecc}
+      \strng{bibnamehash}{a52964b73a2703e50b2223903df38ecc}
+      \strng{authorbibnamehash}{a52964b73a2703e50b2223903df38ecc}
+      \strng{authornamehash}{a52964b73a2703e50b2223903df38ecc}
+      \strng{authorfullhash}{a52964b73a2703e50b2223903df38ecc}
+      \strng{authorfullhashraw}{a52964b73a2703e50b2223903df38ecc}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economic Surveys}
+      \field{number}{2}
+      \field{title}{The decline in the {{US}} labor force participation rate: A literature review}
+      \field{volume}{35}
+      \field{year}{2021}
+      \field{pages}{615\bibrangedash 652}
+      \range{pages}{38}
+      \verb{doi}
+      \verb 10.1111/joes.12402
+      \endverb
+    \endentry
+    \entry{salamaliki2014smooth}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=207cc08cc190900250a56cc0de8f6462}{%
+           family={Salamaliki},
+           familyi={S\bibinitperiod},
+           given={Paraskevi\bibnamedelima K},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e3e348b62eadcbdba6c436cacf7890ec}{%
+           family={Venetis},
+           familyi={V\bibinitperiod},
+           given={Ioannis\bibnamedelima A},
+           giveni={I\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{96061420c96cdfe48f1ad3d8805ed0ee}
+      \strng{fullhash}{96061420c96cdfe48f1ad3d8805ed0ee}
+      \strng{fullhashraw}{96061420c96cdfe48f1ad3d8805ed0ee}
+      \strng{bibnamehash}{96061420c96cdfe48f1ad3d8805ed0ee}
+      \strng{authorbibnamehash}{96061420c96cdfe48f1ad3d8805ed0ee}
+      \strng{authornamehash}{96061420c96cdfe48f1ad3d8805ed0ee}
+      \strng{authorfullhash}{96061420c96cdfe48f1ad3d8805ed0ee}
+      \strng{authorfullhashraw}{96061420c96cdfe48f1ad3d8805ed0ee}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Empirical Economics}
+      \field{number}{2}
+      \field{title}{Smooth transition trends and labor force participation rates in the {{U}}nited {{S}}tates}
+      \field{volume}{46}
+      \field{year}{2014}
+      \field{pages}{629\bibrangedash 652}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1007/s00181-013-0690-9
+      \endverb
+    \endentry
+    \entry{BLS2016HispanicLaborForce}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1dd47a822521d43ebc6c17a6a2917cc6}{%
+           family={{U.S. Bureau of Labor Statistics}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Department of Labor}%
+      }
+      \strng{namehash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{fullhash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{fullhashraw}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{bibnamehash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{authorbibnamehash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{authornamehash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{authorfullhash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{authorfullhashraw}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \field{extraname}{1}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed February 24, 2026}
+      \field{title}{Hispanics Will Make Up Nearly 20 Percent of the Labor Force in 2024}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://www.bls.gov/opub/ted/2016/hispanics-will-make-up-nearly-20-percent-of-the-labor-force-in-2024.htm
+      \endverb
+      \verb{url}
+      \verb https://www.bls.gov/opub/ted/2016/hispanics-will-make-up-nearly-20-percent-of-the-labor-force-in-2024.htm
+      \endverb
+    \endentry
+    \entry{bls2019_lfpr}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1dd47a822521d43ebc6c17a6a2917cc6}{%
+           family={{U.S. Bureau of Labor Statistics}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Department of Labor}%
+      }
+      \strng{namehash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{fullhash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{fullhashraw}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{bibnamehash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{authorbibnamehash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{authornamehash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{authorfullhash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{authorfullhashraw}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \field{extraname}{2}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed February 24, 2026}
+      \field{title}{More Entrants or Fewer Leavers? {{A}} Look at Rising Labor Force Participation}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.bls.gov/opub/mlr/2019/beyond-bls/more-entrants-or-fewer-leavers-a-look-at-rising-labor-force-participation.htm
+      \endverb
+      \verb{url}
+      \verb https://www.bls.gov/opub/mlr/2019/beyond-bls/more-entrants-or-fewer-leavers-a-look-at-rising-labor-force-participation.htm
+      \endverb
+    \endentry
+    \entry{BLS2023RaceEthnicity}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1dd47a822521d43ebc6c17a6a2917cc6}{%
+           family={{U.S. Bureau of Labor Statistics}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Department of Labor}%
+      }
+      \strng{namehash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{fullhash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{fullhashraw}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{bibnamehash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{authorbibnamehash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{authornamehash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{authorfullhash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{authorfullhashraw}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \field{extraname}{3}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed February 24, 2026}
+      \field{title}{Labor Force Characteristics by Race and Ethnicity, 2022}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.bls.gov/opub/reports/race-and-ethnicity/2022/home.htm
+      \endverb
+      \verb{url}
+      \verb https://www.bls.gov/opub/reports/race-and-ethnicity/2022/home.htm
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{AaronsonAlba2021SchoolClosures}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9abda8c78bc7301c54d3f26bafb07a19}{%
+           family={Aaronson},
+           familyi={A\bibinitperiod},
+           given={Stephanie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8727781fe197b4687e80fa053aa99503}{%
+           family={Alba},
+           familyi={A\bibinitperiod},
+           given={Francisca},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Brookings Institution}%
+      }
+      \strng{namehash}{01441b206e2fd2fd8b3a5cdc1f477c35}
+      \strng{fullhash}{01441b206e2fd2fd8b3a5cdc1f477c35}
+      \strng{fullhashraw}{01441b206e2fd2fd8b3a5cdc1f477c35}
+      \strng{bibnamehash}{01441b206e2fd2fd8b3a5cdc1f477c35}
+      \strng{authorbibnamehash}{01441b206e2fd2fd8b3a5cdc1f477c35}
+      \strng{authornamehash}{01441b206e2fd2fd8b3a5cdc1f477c35}
+      \strng{authorfullhash}{01441b206e2fd2fd8b3a5cdc1f477c35}
+      \strng{authorfullhashraw}{01441b206e2fd2fd8b3a5cdc1f477c35}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed February 24, 2026}
+      \field{title}{The Relationship between School Closures and Female Labor Force Participation during the Pandemic}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.brookings.edu/articles/the-relationship-between-school-closures-and-female-labor-force-participation-during-the-pandemic/
+      \endverb
+      \verb{url}
+      \verb https://www.brookings.edu/articles/the-relationship-between-school-closures-and-female-labor-force-participation-during-the-pandemic/
+      \endverb
+    \endentry
+    \entry{albanesi2021gendered}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0c2acf2e1aa826c0490c6ca950e7bbb4}{%
+           family={Albanesi},
+           familyi={A\bibinitperiod},
+           given={Stefania},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c9641ff079e43d9ec51eec057a9786b2}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Jiyeon},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{006bacb61c5c08d5dc9fcfe72ff887b4}
+      \strng{fullhash}{006bacb61c5c08d5dc9fcfe72ff887b4}
+      \strng{fullhashraw}{006bacb61c5c08d5dc9fcfe72ff887b4}
+      \strng{bibnamehash}{006bacb61c5c08d5dc9fcfe72ff887b4}
+      \strng{authorbibnamehash}{006bacb61c5c08d5dc9fcfe72ff887b4}
+      \strng{authornamehash}{006bacb61c5c08d5dc9fcfe72ff887b4}
+      \strng{authorfullhash}{006bacb61c5c08d5dc9fcfe72ff887b4}
+      \strng{authorfullhashraw}{006bacb61c5c08d5dc9fcfe72ff887b4}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{National Bureau of Economic Research}
+      \field{title}{The gendered impact of the {{COVID}}-19 recession on the {{US}} labor market}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.3386/w28505
+      \endverb
+    \endentry
+    \entry{Cajner2017RacialGaps}{misc}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=42d3220edd65d63e9617de1608bfce90}{%
+           family={Cajner},
+           familyi={C\bibinitperiod},
+           given={Tomaz},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8a1136786e0a444858db7d39e7fe44a}{%
+           family={Radler},
+           familyi={R\bibinitperiod},
+           given={Tyler},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=992e8c2fa75b92b172fe4c1c47195170}{%
+           family={Ratner},
+           familyi={R\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=88344b83c27388ee7003f01501f70a73}{%
+           family={Vidangos},
+           familyi={V\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Washington, DC}%
+      }
+      \list{organization}{1}{%
+        {Board of Governors of the Federal Reserve System}%
+      }
+      \strng{namehash}{f388cb73f1afca82adf6268059770c3b}
+      \strng{fullhash}{396ee44fea54cbbaafb8a9e0d038ee50}
+      \strng{fullhashraw}{396ee44fea54cbbaafb8a9e0d038ee50}
+      \strng{bibnamehash}{396ee44fea54cbbaafb8a9e0d038ee50}
+      \strng{authorbibnamehash}{396ee44fea54cbbaafb8a9e0d038ee50}
+      \strng{authornamehash}{f388cb73f1afca82adf6268059770c3b}
+      \strng{authorfullhash}{396ee44fea54cbbaafb8a9e0d038ee50}
+      \strng{authorfullhashraw}{396ee44fea54cbbaafb8a9e0d038ee50}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{2017-071}
+      \field{series}{Finance and Economics Discussion Series}
+      \field{title}{Racial Gaps in Labor Market Outcomes in the Last Four Decades and over the Business Cycle}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.17016/FEDS.2017.071
+      \endverb
+    \endentry
+    \entry{Fu2025LFPR}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2626498b7f0a4b357c37d1021232afa8}{%
+           family={Fu},
+           familyi={F\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {National Association of Home Builders}%
+      }
+      \strng{namehash}{2626498b7f0a4b357c37d1021232afa8}
+      \strng{fullhash}{2626498b7f0a4b357c37d1021232afa8}
+      \strng{fullhashraw}{2626498b7f0a4b357c37d1021232afa8}
+      \strng{bibnamehash}{2626498b7f0a4b357c37d1021232afa8}
+      \strng{authorbibnamehash}{2626498b7f0a4b357c37d1021232afa8}
+      \strng{authornamehash}{2626498b7f0a4b357c37d1021232afa8}
+      \strng{authorfullhash}{2626498b7f0a4b357c37d1021232afa8}
+      \strng{authorfullhashraw}{2626498b7f0a4b357c37d1021232afa8}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Eye on Housing Blog. Accessed February 24, 2026}
+      \field{title}{Demographic Analysis of Labor Force Participation Rate}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://eyeonhousing.org/2025/01/demographic-analysis-of-labor-force-participation-rate/
+      \endverb
+      \verb{url}
+      \verb https://eyeonhousing.org/2025/01/demographic-analysis-of-labor-force-participation-rate/
+      \endverb
+    \endentry
+    \entry{goda2023impacts}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=64c58797c23e73a3e13ba19c6929effa}{%
+           family={Goda},
+           familyi={G\bibinitperiod},
+           given={Gopi\bibnamedelima Shah},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb6a67452f9f7485eecdeda41eeaddf2}{%
+           family={Soltas},
+           familyi={S\bibinitperiod},
+           given={Evan\bibnamedelima J},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{7590ba52a683f66614f6a4b335a24354}
+      \strng{fullhash}{7590ba52a683f66614f6a4b335a24354}
+      \strng{fullhashraw}{7590ba52a683f66614f6a4b335a24354}
+      \strng{bibnamehash}{7590ba52a683f66614f6a4b335a24354}
+      \strng{authorbibnamehash}{7590ba52a683f66614f6a4b335a24354}
+      \strng{authornamehash}{7590ba52a683f66614f6a4b335a24354}
+      \strng{authorfullhash}{7590ba52a683f66614f6a4b335a24354}
+      \strng{authorfullhashraw}{7590ba52a683f66614f6a4b335a24354}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Public Economics}
+      \field{title}{The impacts of {{COVID}}-19 absences on workers}
+      \field{volume}{222}
+      \field{year}{2023}
+      \field{pages}{104889}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.jpubeco.2023.104889
+      \endverb
+    \endentry
+    \entry{greenwood2005engines}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d478f9299f338f8350ee22180e3a93bf}{%
+           family={Greenwood},
+           familyi={G\bibinitperiod},
+           given={Jeremy},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a150c401256b1e090a7ab6684501923}{%
+           family={Seshadri},
+           familyi={S\bibinitperiod},
+           given={Ananth},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4cfeb276d230e136f61488ce846e2caa}{%
+           family={Yorukoglu},
+           familyi={Y\bibinitperiod},
+           given={Mehmet},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley-Blackwell}%
+      }
+      \strng{namehash}{72b6a0cd5413503a42f713b6538fdf06}
+      \strng{fullhash}{95dfc092c53e19a3b577b987e5dd99e0}
+      \strng{fullhashraw}{95dfc092c53e19a3b577b987e5dd99e0}
+      \strng{bibnamehash}{95dfc092c53e19a3b577b987e5dd99e0}
+      \strng{authorbibnamehash}{95dfc092c53e19a3b577b987e5dd99e0}
+      \strng{authornamehash}{72b6a0cd5413503a42f713b6538fdf06}
+      \strng{authorfullhash}{95dfc092c53e19a3b577b987e5dd99e0}
+      \strng{authorfullhashraw}{95dfc092c53e19a3b577b987e5dd99e0}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Review of Economic Studies}
+      \field{number}{1}
+      \field{title}{Engines of liberation}
+      \field{volume}{72}
+      \field{year}{2005}
+      \field{pages}{109\bibrangedash 133}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1111/0034-6527.00326
+      \endverb
+    \endentry
+    \entry{jason2024impact}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=766b6e95729c84f8bc0f07a3f4264b13}{%
+           family={Jason},
+           familyi={J\bibinitperiod},
+           given={Kendra},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=186506697c1ee2741a53d377f93093b9}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Miguel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f4065a9583414c80abbc15080a22cdb0}{%
+           family={Catoe},
+           familyi={C\bibinitperiod},
+           given={Jamel},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4573606ebe6decc72223160e1e3106b4}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Courtney},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aacb17862c1948a1375d427106c9de83}{%
+           family={Gonzalez},
+           familyi={G\bibinitperiod},
+           given={Mayleen},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{50c942654d357c96592eb520ef331a36}
+      \strng{fullhash}{b3302f640af4455721341da0256ff7e0}
+      \strng{fullhashraw}{b3302f640af4455721341da0256ff7e0}
+      \strng{bibnamehash}{b3302f640af4455721341da0256ff7e0}
+      \strng{authorbibnamehash}{b3302f640af4455721341da0256ff7e0}
+      \strng{authornamehash}{50c942654d357c96592eb520ef331a36}
+      \strng{authorfullhash}{b3302f640af4455721341da0256ff7e0}
+      \strng{authorfullhashraw}{b3302f640af4455721341da0256ff7e0}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Racial and Ethnic Health Disparities}
+      \field{number}{3}
+      \field{title}{The impact of the {{COVID}}-19 pandemic on {{B}}lack and {{H}}ispanic {{A}}mericans’ work outcomes: A scoping review}
+      \field{volume}{11}
+      \field{year}{2024}
+      \field{pages}{1157\bibrangedash 1172}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/s40615-023-01594-6
+      \endverb
+    \endentry
+    \entry{juhn2006changes}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d601477de775b6ef301d8f3e0aa13ef0}{%
+           family={Juhn},
+           familyi={J\bibinitperiod},
+           given={Chinhui},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9fc0dd7b264039d7b29133af7c71ed82}{%
+           family={Potter},
+           familyi={P\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Economic Association}%
+      }
+      \strng{namehash}{a5c310a1a28a19c645ca80ead154dad5}
+      \strng{fullhash}{a5c310a1a28a19c645ca80ead154dad5}
+      \strng{fullhashraw}{a5c310a1a28a19c645ca80ead154dad5}
+      \strng{bibnamehash}{a5c310a1a28a19c645ca80ead154dad5}
+      \strng{authorbibnamehash}{a5c310a1a28a19c645ca80ead154dad5}
+      \strng{authornamehash}{a5c310a1a28a19c645ca80ead154dad5}
+      \strng{authorfullhash}{a5c310a1a28a19c645ca80ead154dad5}
+      \strng{authorfullhashraw}{a5c310a1a28a19c645ca80ead154dad5}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economic Perspectives}
+      \field{number}{3}
+      \field{title}{Changes in labor force participation in the {{U}}nited {{S}}tates}
+      \field{volume}{20}
+      \field{year}{2006}
+      \field{pages}{27\bibrangedash 46}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1257/jep.20.3.27
+      \endverb
+    \endentry
+    \entry{killingsworth1986female}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5d64d2801e645420774270bc870efb36}{%
+           family={Killingsworth},
+           familyi={K\bibinitperiod},
+           given={Mark\bibnamedelima R},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b70b920520f54634a1f03f9312707db2}{%
+           family={Heckman},
+           familyi={H\bibinitperiod},
+           given={James\bibnamedelima J},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{f8d1c90c19c167f6d1061720b6f39961}
+      \strng{fullhash}{f8d1c90c19c167f6d1061720b6f39961}
+      \strng{fullhashraw}{f8d1c90c19c167f6d1061720b6f39961}
+      \strng{bibnamehash}{f8d1c90c19c167f6d1061720b6f39961}
+      \strng{authorbibnamehash}{f8d1c90c19c167f6d1061720b6f39961}
+      \strng{authornamehash}{f8d1c90c19c167f6d1061720b6f39961}
+      \strng{authorfullhash}{f8d1c90c19c167f6d1061720b6f39961}
+      \strng{authorfullhashraw}{f8d1c90c19c167f6d1061720b6f39961}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Handbook of Labor Economics}
+      \field{title}{Female labor supply: A survey}
+      \field{volume}{1}
+      \field{year}{1986}
+      \field{pages}{103\bibrangedash 204}
+      \range{pages}{102}
+      \verb{doi}
+      \verb 10.1016/S1573-4463(86)01005-2
+      \endverb
+    \endentry
+    \entry{kochhar2014_pew}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b9381b3c728f9c3029a66bdc1e7f7bf8}{%
+           family={Kochhar},
+           familyi={K\bibinitperiod},
+           given={Rakesh},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Pew Research Center}%
+      }
+      \strng{namehash}{b9381b3c728f9c3029a66bdc1e7f7bf8}
+      \strng{fullhash}{b9381b3c728f9c3029a66bdc1e7f7bf8}
+      \strng{fullhashraw}{b9381b3c728f9c3029a66bdc1e7f7bf8}
+      \strng{bibnamehash}{b9381b3c728f9c3029a66bdc1e7f7bf8}
+      \strng{authorbibnamehash}{b9381b3c728f9c3029a66bdc1e7f7bf8}
+      \strng{authornamehash}{b9381b3c728f9c3029a66bdc1e7f7bf8}
+      \strng{authorfullhash}{b9381b3c728f9c3029a66bdc1e7f7bf8}
+      \strng{authorfullhashraw}{b9381b3c728f9c3029a66bdc1e7f7bf8}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed February 24, 2026}
+      \field{title}{Chapter 1: Employment and Unemployment in the Recession and the Recovery}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://www.pewresearch.org/race-and-ethnicity/2014/06/19/chapter-1-employment-and-unemployment-in-the-recession-and-the-recovery/
+      \endverb
+      \verb{url}
+      \verb https://www.pewresearch.org/race-and-ethnicity/2014/06/19/chapter-1-employment-and-unemployment-in-the-recession-and-the-recovery/
+      \endverb
+    \endentry
+    \entry{KPMG2025GreatExit}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4544eb2d4cb5dd50a18a6a396cc2eb5d}{%
+           family={KPMG},
+           familyi={K\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {KPMG LLP}%
+      }
+      \strng{namehash}{4544eb2d4cb5dd50a18a6a396cc2eb5d}
+      \strng{fullhash}{4544eb2d4cb5dd50a18a6a396cc2eb5d}
+      \strng{fullhashraw}{4544eb2d4cb5dd50a18a6a396cc2eb5d}
+      \strng{bibnamehash}{4544eb2d4cb5dd50a18a6a396cc2eb5d}
+      \strng{authorbibnamehash}{4544eb2d4cb5dd50a18a6a396cc2eb5d}
+      \strng{authornamehash}{4544eb2d4cb5dd50a18a6a396cc2eb5d}
+      \strng{authorfullhash}{4544eb2d4cb5dd50a18a6a396cc2eb5d}
+      \strng{authorfullhashraw}{4544eb2d4cb5dd50a18a6a396cc2eb5d}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Great Exit}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://kpmg.com/us/en/articles/2025/october-2025-the-great-exit.html
+      \endverb
+      \verb{url}
+      \verb https://kpmg.com/us/en/articles/2025/october-2025-the-great-exit.html
+      \endverb
+    \endentry
+    \entry{krueger2017have}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=34526c3bf548080921683822747fad7e}{%
+           family={Krueger},
+           familyi={K\bibinitperiod},
+           given={Alan\bibnamedelima B},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{34526c3bf548080921683822747fad7e}
+      \strng{fullhash}{34526c3bf548080921683822747fad7e}
+      \strng{fullhashraw}{34526c3bf548080921683822747fad7e}
+      \strng{bibnamehash}{34526c3bf548080921683822747fad7e}
+      \strng{authorbibnamehash}{34526c3bf548080921683822747fad7e}
+      \strng{authornamehash}{34526c3bf548080921683822747fad7e}
+      \strng{authorfullhash}{34526c3bf548080921683822747fad7e}
+      \strng{authorfullhashraw}{34526c3bf548080921683822747fad7e}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Brookings Papers on Economic Activity}
+      \field{number}{2}
+      \field{title}{Where have all the workers gone? {{A}}n inquiry into the decline of the {{US}} labor force participation rate}
+      \field{volume}{2017}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 87}
+      \range{pages}{87}
+      \verb{doi}
+      \verb 10.1353/eca.2017.0012
+      \endverb
+    \endentry
+    \entry{mosisa2006trends}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a5981cca3b1fe32ea8030ee4df6a0aca}{%
+           family={Mosisa},
+           familyi={M\bibinitperiod},
+           given={Abraham},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=74dee3659c0e02203e844614c211c5b5}{%
+           family={Hipple},
+           familyi={H\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {HeinOnline}%
+      }
+      \strng{namehash}{4586025994cb59131cb0a6ebf1afd979}
+      \strng{fullhash}{4586025994cb59131cb0a6ebf1afd979}
+      \strng{fullhashraw}{4586025994cb59131cb0a6ebf1afd979}
+      \strng{bibnamehash}{4586025994cb59131cb0a6ebf1afd979}
+      \strng{authorbibnamehash}{4586025994cb59131cb0a6ebf1afd979}
+      \strng{authornamehash}{4586025994cb59131cb0a6ebf1afd979}
+      \strng{authorfullhash}{4586025994cb59131cb0a6ebf1afd979}
+      \strng{authorfullhashraw}{4586025994cb59131cb0a6ebf1afd979}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Monthly Lab. Rev.}
+      \field{title}{Trends in labor force participation in the {{U}}nited {{S}}tates}
+      \field{volume}{129}
+      \field{year}{2006}
+      \field{pages}{35}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://www.bls.gov/opub/mlr/2006/10/art3full.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.bls.gov/opub/mlr/2006/10/art3full.pdf
+      \endverb
+    \endentry
+    \entry{murphy1997unemployment}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2459a19cc6b1187b64ff667577c741d9}{%
+           family={Murphy},
+           familyi={M\bibinitperiod},
+           given={Kevin\bibnamedelima M},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a3b67e69c19ebe886973cc4645c687a}{%
+           family={Topel},
+           familyi={T\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{eaef55390169c81ec628bcff488b3a8a}
+      \strng{fullhash}{eaef55390169c81ec628bcff488b3a8a}
+      \strng{fullhashraw}{eaef55390169c81ec628bcff488b3a8a}
+      \strng{bibnamehash}{eaef55390169c81ec628bcff488b3a8a}
+      \strng{authorbibnamehash}{eaef55390169c81ec628bcff488b3a8a}
+      \strng{authornamehash}{eaef55390169c81ec628bcff488b3a8a}
+      \strng{authorfullhash}{eaef55390169c81ec628bcff488b3a8a}
+      \strng{authorfullhashraw}{eaef55390169c81ec628bcff488b3a8a}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The American Economic Review}
+      \field{number}{2}
+      \field{title}{Unemployment and nonemployment}
+      \field{volume}{87}
+      \field{year}{1997}
+      \field{pages}{295\bibrangedash 300}
+      \range{pages}{6}
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/2950934
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/2950934
+      \endverb
+    \endentry
+    \entry{perez2021decline}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0e1c99f320e894d184fe2c88d0079a55}{%
+           family={Perez-Arce},
+           familyi={P\bibinithyphendelim A\bibinitperiod},
+           given={Francisco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91dab88c7ff3460ac25b43c5bab6952e}{%
+           family={Prados},
+           familyi={P\bibinitperiod},
+           given={Maria\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{a52964b73a2703e50b2223903df38ecc}
+      \strng{fullhash}{a52964b73a2703e50b2223903df38ecc}
+      \strng{fullhashraw}{a52964b73a2703e50b2223903df38ecc}
+      \strng{bibnamehash}{a52964b73a2703e50b2223903df38ecc}
+      \strng{authorbibnamehash}{a52964b73a2703e50b2223903df38ecc}
+      \strng{authornamehash}{a52964b73a2703e50b2223903df38ecc}
+      \strng{authorfullhash}{a52964b73a2703e50b2223903df38ecc}
+      \strng{authorfullhashraw}{a52964b73a2703e50b2223903df38ecc}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economic Surveys}
+      \field{number}{2}
+      \field{title}{The decline in the {{US}} labor force participation rate: A literature review}
+      \field{volume}{35}
+      \field{year}{2021}
+      \field{pages}{615\bibrangedash 652}
+      \range{pages}{38}
+      \verb{doi}
+      \verb 10.1111/joes.12402
+      \endverb
+    \endentry
+    \entry{salamaliki2014smooth}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=207cc08cc190900250a56cc0de8f6462}{%
+           family={Salamaliki},
+           familyi={S\bibinitperiod},
+           given={Paraskevi\bibnamedelima K},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e3e348b62eadcbdba6c436cacf7890ec}{%
+           family={Venetis},
+           familyi={V\bibinitperiod},
+           given={Ioannis\bibnamedelima A},
+           giveni={I\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{96061420c96cdfe48f1ad3d8805ed0ee}
+      \strng{fullhash}{96061420c96cdfe48f1ad3d8805ed0ee}
+      \strng{fullhashraw}{96061420c96cdfe48f1ad3d8805ed0ee}
+      \strng{bibnamehash}{96061420c96cdfe48f1ad3d8805ed0ee}
+      \strng{authorbibnamehash}{96061420c96cdfe48f1ad3d8805ed0ee}
+      \strng{authornamehash}{96061420c96cdfe48f1ad3d8805ed0ee}
+      \strng{authorfullhash}{96061420c96cdfe48f1ad3d8805ed0ee}
+      \strng{authorfullhashraw}{96061420c96cdfe48f1ad3d8805ed0ee}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Empirical Economics}
+      \field{number}{2}
+      \field{title}{Smooth transition trends and labor force participation rates in the {{U}}nited {{S}}tates}
+      \field{volume}{46}
+      \field{year}{2014}
+      \field{pages}{629\bibrangedash 652}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1007/s00181-013-0690-9
+      \endverb
+    \endentry
+    \entry{BLS2016HispanicLaborForce}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1dd47a822521d43ebc6c17a6a2917cc6}{%
+           family={{U.S. Bureau of Labor Statistics}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Department of Labor}%
+      }
+      \strng{namehash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{fullhash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{fullhashraw}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{bibnamehash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{authorbibnamehash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{authornamehash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{authorfullhash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{authorfullhashraw}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \field{extraname}{1}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed February 24, 2026}
+      \field{title}{Hispanics Will Make Up Nearly 20 Percent of the Labor Force in 2024}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://www.bls.gov/opub/ted/2016/hispanics-will-make-up-nearly-20-percent-of-the-labor-force-in-2024.htm
+      \endverb
+      \verb{url}
+      \verb https://www.bls.gov/opub/ted/2016/hispanics-will-make-up-nearly-20-percent-of-the-labor-force-in-2024.htm
+      \endverb
+    \endentry
+    \entry{bls2019_lfpr}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1dd47a822521d43ebc6c17a6a2917cc6}{%
+           family={{U.S. Bureau of Labor Statistics}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Department of Labor}%
+      }
+      \strng{namehash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{fullhash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{fullhashraw}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{bibnamehash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{authorbibnamehash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{authornamehash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{authorfullhash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{authorfullhashraw}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \field{extraname}{2}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed February 24, 2026}
+      \field{title}{More Entrants or Fewer Leavers? {{A}} Look at Rising Labor Force Participation}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.bls.gov/opub/mlr/2019/beyond-bls/more-entrants-or-fewer-leavers-a-look-at-rising-labor-force-participation.htm
+      \endverb
+      \verb{url}
+      \verb https://www.bls.gov/opub/mlr/2019/beyond-bls/more-entrants-or-fewer-leavers-a-look-at-rising-labor-force-participation.htm
+      \endverb
+    \endentry
+    \entry{BLS2023RaceEthnicity}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1dd47a822521d43ebc6c17a6a2917cc6}{%
+           family={{U.S. Bureau of Labor Statistics}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Department of Labor}%
+      }
+      \strng{namehash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{fullhash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{fullhashraw}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{bibnamehash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{authorbibnamehash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{authornamehash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{authorfullhash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{authorfullhashraw}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \field{extraname}{3}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed February 24, 2026}
+      \field{title}{Labor Force Characteristics by Race and Ethnicity, 2022}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.bls.gov/opub/reports/race-and-ethnicity/2022/home.htm
+      \endverb
+      \verb{url}
+      \verb https://www.bls.gov/opub/reports/race-and-ethnicity/2022/home.htm
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
