@@ -3073,28 +3073,27 @@
     <bcf:citekey order="1" intorder="1">mosisa2006trends</bcf:citekey>
     <bcf:citekey order="2" intorder="1">perez2021decline</bcf:citekey>
     <bcf:citekey order="3" intorder="1">perez2021decline</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">krueger2017have</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">krueger2017have</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">mosisa2006trends</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">Fu2025LFPR</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">killingsworth1986female</bcf:citekey>
-    <bcf:citekey order="8" intorder="2">greenwood2005engines</bcf:citekey>
-    <bcf:citekey order="8" intorder="3">juhn2006changes</bcf:citekey>
-    <bcf:citekey order="8" intorder="4">salamaliki2014smooth</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">murphy1997unemployment</bcf:citekey>
-    <bcf:citekey order="9" intorder="2">juhn2006changes</bcf:citekey>
-    <bcf:citekey order="9" intorder="3">salamaliki2014smooth</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">albanesi2021gendered</bcf:citekey>
-    <bcf:citekey order="10" intorder="2">AaronsonAlba2021SchoolClosures</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">Cajner2017RacialGaps</bcf:citekey>
-    <bcf:citekey order="11" intorder="2">BLS2023RaceEthnicity</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">BLS2016HispanicLaborForce</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">mosisa2006trends</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">goda2023impacts</bcf:citekey>
-    <bcf:citekey order="14" intorder="2">KPMG2025GreatExit</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">jason2024impact</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">kochhar2014_pew</bcf:citekey>
-    <bcf:citekey order="16" intorder="2">bls2019_lfpr</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">mosisa2006trends</bcf:citekey>
+    <bcf:citekey order="4" intorder="2">krueger2017have</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">Fu2025LFPR</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">killingsworth1986female</bcf:citekey>
+    <bcf:citekey order="6" intorder="2">greenwood2005engines</bcf:citekey>
+    <bcf:citekey order="6" intorder="3">juhn2006changes</bcf:citekey>
+    <bcf:citekey order="6" intorder="4">salamaliki2014smooth</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">murphy1997unemployment</bcf:citekey>
+    <bcf:citekey order="7" intorder="2">juhn2006changes</bcf:citekey>
+    <bcf:citekey order="7" intorder="3">salamaliki2014smooth</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">albanesi2021gendered</bcf:citekey>
+    <bcf:citekey order="8" intorder="2">AaronsonAlba2021SchoolClosures</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">Cajner2017RacialGaps</bcf:citekey>
+    <bcf:citekey order="9" intorder="2">BLS2023RaceEthnicity</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">BLS2016HispanicLaborForce</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">mosisa2006trends</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">goda2023impacts</bcf:citekey>
+    <bcf:citekey order="12" intorder="2">KPMG2025GreatExit</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">jason2024impact</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">kochhar2014_pew</bcf:citekey>
+    <bcf:citekey order="14" intorder="2">bls2019_lfpr</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
