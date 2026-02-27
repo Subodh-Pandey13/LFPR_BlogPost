@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  11 FEB 2026 00:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  26 FEB 2026 21:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/subodh/Documents/LFPR_BlogPost/LFPR_BlogPost/LaborForceParticipationRate_BlogPost/LFPR_Slides.tex
-(/Users/subodh/Documents/LFPR_BlogPost/LFPR_BlogPost/LaborForceParticipationRate_BlogPost/LFPR_Slides.tex
+**/Users/subodh/Documents/LFPR_Blogpost/GITHUB_LFPR_BlogPost/LATEX_LFPR/LFPR_Slides.tex
+(/Users/subodh/Documents/LFPR_Blogpost/GITHUB_LFPR_BlogPost/LATEX_LFPR/LFPR_Slides.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/beamer/beamer.cls
@@ -774,12 +774,12 @@ Package rerunfilecheck Info: File `LFPR_Slides.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  21753 strings out of 473190
- 417042 string characters out of 5715801
- 787477 words of memory out of 5000000
+ 416985 string characters out of 5715801
+ 787479 words of memory out of 5000000
  44546 multiletter control sequences out of 15000+600000
  569600 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,14n,123p,496b,561s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,14n,123p,477b,561s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1728.pfb>
 Output written on LFPR_Slides.pdf (4 pages, 3271783 bytes).
 PDF statistics:
