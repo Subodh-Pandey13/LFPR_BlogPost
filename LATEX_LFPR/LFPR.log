@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  26 FEB 2026 21:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  4 MAR 2026 00:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -825,25 +825,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--45
 <lfpr_gender_1948_2025_rec.jpg, id=22, 1284.8pt x 934.49126pt>
 File: lfpr_gender_1948_2025_rec.jpg Graphic file (type jpg)
 <use lfpr_gender_1948_2025_rec.jpg>
-Package pdftex.def Info: lfpr_gender_1948_2025_rec.jpg  used on input line 66.
+Package pdftex.def Info: lfpr_gender_1948_2025_rec.jpg  used on input line 69.
 (pdftex.def)             Requested size: 230.18253pt x 167.41692pt.
 <lfpr_gender_2000_2025_rec.jpg, id=23, 1284.8pt x 934.49126pt>
 File: lfpr_gender_2000_2025_rec.jpg Graphic file (type jpg)
 <use lfpr_gender_2000_2025_rec.jpg>
-Package pdftex.def Info: lfpr_gender_2000_2025_rec.jpg  used on input line 73.
+Package pdftex.def Info: lfpr_gender_2000_2025_rec.jpg  used on input line 76.
 (pdftex.def)             Requested size: 230.18253pt x 167.41692pt.
 
 
 [2 <./lfpr_gender_1948_2025_rec.jpg> <./lfpr_gender_2000_2025_rec.jpg>]
-<lfpr_race_2000_2025_rec.jpg, id=47, 1557.82pt x 934.49126pt>
+<lfpr_race_2000_2025_rec.jpg, id=44, 1557.82pt x 934.49126pt>
 File: lfpr_race_2000_2025_rec.jpg Graphic file (type jpg)
 <use lfpr_race_2000_2025_rec.jpg>
-Package pdftex.def Info: lfpr_race_2000_2025_rec.jpg  used on input line 98.
+Package pdftex.def Info: lfpr_race_2000_2025_rec.jpg  used on input line 101.
 (pdftex.def)             Requested size: 230.18253pt x 138.07153pt.
-<lfpr_race_2014_2025_rec.jpg, id=48, 1557.82pt x 934.49126pt>
+<lfpr_race_2014_2025_rec.jpg, id=45, 1557.82pt x 934.49126pt>
 File: lfpr_race_2014_2025_rec.jpg Graphic file (type jpg)
 <use lfpr_race_2014_2025_rec.jpg>
-Package pdftex.def Info: lfpr_race_2014_2025_rec.jpg  used on input line 105.
+Package pdftex.def Info: lfpr_race_2014_2025_rec.jpg  used on input line 108.
 (pdftex.def)             Requested size: 230.18253pt x 138.07153pt.
 
 
@@ -854,15 +854,15 @@ Package pdftex.def Info: lfpr_race_2014_2025_rec.jpg  used on input line 105.
 [5]
 
 [6]
-<LaborForceParticipationRate (1).png, id=121, 1871.49188pt x 1052.43187pt>
+<LaborForceParticipationRate (1).png, id=123, 1871.49188pt x 1052.43187pt>
 File: LaborForceParticipationRate (1).png Graphic file (type png)
 <use LaborForceParticipationRate (1).png>
-Package pdftex.def Info: LaborForceParticipationRate (1).png  used on input line 131.
+Package pdftex.def Info: LaborForceParticipationRate (1).png  used on input line 134.
 (pdftex.def)             Requested size: 375.80544pt x 211.33376pt.
-<Screenshot 2026-01-20 at 11.42.09 AM.png, id=123, 742.775pt x 574.145pt>
+<Screenshot 2026-01-20 at 11.42.09 AM.png, id=125, 742.775pt x 574.145pt>
 File: Screenshot 2026-01-20 at 11.42.09 AM.png Graphic file (type png)
 <use Screenshot 2026-01-20 at 11.42.09 AM.png>
-Package pdftex.def Info: Screenshot 2026-01-20 at 11.42.09 AM.png  used on input line 140.
+Package pdftex.def Info: Screenshot 2026-01-20 at 11.42.09 AM.png  used on input line 143.
 (pdftex.def)             Requested size: 375.80544pt x 290.48848pt.
 
 
@@ -878,18 +878,18 @@ Package logreq Info: Writing requests to 'LFPR.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24252 strings out of 473190
- 453636 string characters out of 5715801
+ 24253 strings out of 473190
+ 453646 string characters out of 5715801
  1609696 words of memory out of 5000000
  47217 multiletter control sequences out of 15000+600000
  572767 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,9n,107p,10990b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx2074.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb>
-Output written on LFPR.pdf (7 pages, 1763279 bytes).
+Output written on LFPR.pdf (7 pages, 1763941 bytes).
 PDF statistics:
- 178 PDF objects out of 1000 (max. 8388607)
- 143 compressed objects within 2 object streams
- 35 named destinations out of 1000 (max. 500000)
+ 179 PDF objects out of 1000 (max. 8388607)
+ 144 compressed objects within 2 object streams
+ 36 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
