@@ -108,6 +108,7 @@ merge 1:1 ym using "/Users/subodh/Documents/LFPR_Blogpost/GITHUB_LFPR_BlogPost/D
 
 drop if ym == tm(2026m1)
 
+* This is the merged data. Start from here
  use "/Users/subodh/Documents/LFPR_Blogpost/GITHUB_LFPR_BlogPost/Data_Codes_LFPR/data_merged_race_recession.dta"
 
 tsset ym, monthly
@@ -116,6 +117,7 @@ label variable USRECM "Recession"
 twoway area USRECM ym
 replace USRECM = 72*USRECM
 replace USRECM=55 if USRECM==0
+replace USRECM=75 if USRECM==72
 
 twoway  (area USRECM ym) (tsline lfprs lfprs_white lfprs_black lfprs_hispanic_latino)
 
@@ -125,6 +127,8 @@ set scheme s1color
 
 twoway (area USRECM ym, color(gs14))(tsline lfprs lfprs_white lfprs_black lfprs_hispanic_latino), ytitle("Labor Force Participation Rate") xtitle("") tlabel(, format(%tmCCYY)) legend(order(2 3 4 5) position(6) ring(1) col(4)label(2 "Overall") label(3 "White") label(4 "Black") label(5 "Hispanic/Latino"))
 
+
+* for graph, start from here, after loading the data
 twoway (area USRECM ym if ym > tm(1999m12), color(gs14)) ///
     (tsline lfprs lfprs_white lfprs_black lfprs_hispanic_latino if ym > tm(1999m12)), ///
     ytitle("Labor Force Participation Rate") ///
@@ -155,10 +159,12 @@ merge 1:1 ym using "/Users/subodh/Documents/LFPR_Blogpost/GITHUB_LFPR_BlogPost/D
 
 drop if ym == tm(2026m1)
 
+* We can start from here. Its the merged data. We have to make sure USREM value matches with Y-axis
+
  use "/Users/subodh/Documents/LFPR_Blogpost/GITHUB_LFPR_BlogPost/Data_Codes_LFPR/data_merged_lfpr_gender_rec.dta"
 
-replace USRECM = 90*USRECM
-replace USRECM=20 if USRECM==0
+replace USRECM = 100 if USRECM==80
+replace USRECM = 20 if USRECM==50
 
 twoway (area USRECM ym, color(gs14)) ///
     (tsline lfprs lfprs_men lfprs_women), ///
@@ -173,7 +179,7 @@ twoway (area USRECM ym, color(gs14)) ///
 
 *Adjusting the axis of the recession line wrt minimum and maximum value		   
 sum lfprs lfprs_men lfprs_women if ym > tm(1999m12)
-replace USRECM=80 if USRECM==90
+replace USRECM=80 if USRECM==100
 replace USRECM=50 if USRECM==20
 		   
 twoway (area USRECM ym if ym > tm(1999m12), color(gs14)) ///
