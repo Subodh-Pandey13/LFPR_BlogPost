@@ -37,3 +37,38 @@ img {
     display: block;
     margin: 0 auto;
 }
+
+.formula {
+  font-size: 18px;
+}
+
+.fraction {
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.numerator {
+  display: block;
+  border-bottom: 2px solid black;
+  padding: 2px 6px;
+}
+
+.denominator {
+  display: block;
+  padding: 2px 6px;
+}
+
+.center-figure {
+    text-align: center;
+}
+
+.center-figure img {
+    display: block;
+    margin: 0 auto;
+}
+
+.center-figure figcaption {
+    margin-top: 8px;
+    font-style: italic;
+}
