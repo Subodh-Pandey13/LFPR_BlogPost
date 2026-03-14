@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber LFPR"] 1772159756.73087 "LFPR.bcf" "LFPR.bbl" "LFPR" 1773429154.24157 0
-  "LFPR.bcf" 1773429154.19135 135045 a5420c14da1a6035cb80929925cfac96 "pdflatex"
+["biber LFPR"] 1772159756.73087 "LFPR.bcf" "LFPR.bbl" "LFPR" 1773462281.14159 0
+  "LFPR.bcf" 1773462281.08818 135045 a5420c14da1a6035cb80929925cfac96 "pdflatex"
   "references.bib" 1773089735.00593 7433 c023988cbe1196ee3ea956b716216cec ""
   (generated)
   "LFPR.bbl"
   "LFPR.blg"
   (rewritten before read)
-["pdflatex"] 1773429152.72339 "/Users/subodh/LFPR_BlogPost/LATEX_LFPR/LFPR.tex" "LFPR.pdf" "LFPR" 1773429154.2418 0
-  "/Users/subodh/LFPR_BlogPost/LATEX_LFPR/LFPR.tex" 1773429152.5335 11947 c89b463f089393382e03ed874e713272 ""
+["pdflatex"] 1773462279.54629 "/Users/subodh/LFPR_BlogPost/LATEX_LFPR/LFPR.tex" "LFPR.pdf" "LFPR" 1773462281.14181 0
+  "/Users/subodh/LFPR_BlogPost/LATEX_LFPR/LFPR.tex" 1773462276.01021 11869 a5af7fda78aa804090d3b9bd0db2fbcd ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm" 1136768653 3584 402da0b29eafbad07963b1224b222f18 ""
@@ -140,11 +140,11 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1762217187 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1741450574 3345740 46b66fdb0378f7bf5921b5eabf1762b8 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "LFPR.aux" 1773429154.18936 7307 73d7b442316d84449538567adaa3b3ea "pdflatex"
+  "LFPR.aux" 1773462281.0864 7307 be12a210714e241ccda4901ec377322c "pdflatex"
   "LFPR.bbl" 1773089734.97094 67364 4d45f9f4678dbf9c48107d58c0069f94 "biber LFPR"
-  "LFPR.out" 1773429153.55318 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "LFPR.run.xml" 1773429154.1919 2427 6e3728c7d074f1aeb4192ed2ddb81078 "pdflatex"
-  "LFPR.tex" 1773429152.5335 11947 c89b463f089393382e03ed874e713272 ""
+  "LFPR.out" 1773462280.43232 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "LFPR.run.xml" 1773462281.0891 2427 6e3728c7d074f1aeb4192ed2ddb81078 "pdflatex"
+  "LFPR.tex" 1773462276.01021 11869 a5af7fda78aa804090d3b9bd0db2fbcd ""
   "LaborForceParticipationRate (1).png" 1773089734.98824 362540 4827584760834cc70831b05fc0fe743e ""
   "Screenshot 2026-01-20 at 11.42.09 AM.png" 1773089734.9885 72470 e7fa502467ae7f7eb27680f93c9aca98 ""
   "lfpr_gender_1948_25_final.jpg" 1773089734.99319 313625 ed0a97e6eb99a6836f2a6bcae54bbd2d ""
