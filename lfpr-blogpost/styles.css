@@ -32,7 +32,7 @@ figure {
 }
 
 img {
-    max-width: 100%;
+    max-width: 80%;
     height: auto;
     display: block;
     margin: 0 auto;
@@ -92,23 +92,34 @@ img {
   text-align: center;
 }
 
-section.references {
-  text-align: left;
+/* References Section - Remove all bullets/numbers */
+section.references ul,
+section.references ol {
+  list-style: none !important;  /* remove bullets/numbers */
+  padding-left: 0 !important;   /* remove indentation */
+  margin: 0 !important;
 }
 
+section.references li {
+  text-align: left !important;
+}
+
+
+section.references li {
+  list-style: none !important;
+  margin-bottom: 1em;
+}
+
+section.references li::marker {
+  content: none !important;     /* remove bullets in modern browsers */
+}
+
+/* Heading */
 section.references h2 {
   margin-bottom: 1em;
 }
 
-section.references ul {
-  list-style-type: none; /* removes bullets */
-  padding-left: 0;
-}
-
-section.references li {
-  margin-bottom: 1em;
-}
-
+/* Links */
 section.references a {
   color: #1a0dab;
   text-decoration: none;
